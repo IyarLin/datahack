@@ -2,6 +2,8 @@
 
 # Lightricks DataHack 2018 Challenge
 
+**See analysis.md file containing the code used to generate and submit predictions for the challenge**
+
 ## Welcome to the Lightricks challenge at DataHack 2018! 
 
 # About Lightricks
